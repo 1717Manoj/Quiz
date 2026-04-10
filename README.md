@@ -17,7 +17,7 @@ This project is a quiz application that allows users to answer questions and vie
 
 ## 📸 Screenshots
 
-(Add your screenshots here after uploading)
+img1.png,img2.png,img3.png,img4.png,img5.png,img6.png
 
 ## 🎥 Demo Video
 
